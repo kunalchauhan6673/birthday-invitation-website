@@ -1,0 +1,22 @@
+body{
+            margin: 20px;
+    }
+
+@media (max-width: 680px) {
+           .first{
+                text-align: center;
+                }
+            img{
+                width: 50%;
+            }
+            audio{
+             position: relative; 
+             display: block;
+             left: 151px;
+            }
+
+            .first > h1{
+                font-size: 5rem;
+            }
+            
+        }
